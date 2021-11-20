@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MichaelAgam&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/MichaelAgam23/metadata?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=MichaelAgam&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/MichaelAgam23?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 </p>
 
 ___
